@@ -27,7 +27,22 @@ crossover/
         └── alice-and-kei.md
 ```
 
+## Blue Archive / Trinity
+
+```text
+crossover/
+└── blue-archive/
+    └── trinity/
+        ├── tea-party.md
+        ├── after-school-sweets-club.md
+        ├── justice-task-force.md
+        ├── remedial-knights.md
+        └── sisterhood.md
+```
+
 ## 現在の追加済み資料
+
+### Millennium
 
 - [セミナー](crossover/blue-archive/millennium/seminar.md)
 - [ゲーム開発部](crossover/blue-archive/millennium/game-development-club.md)
@@ -39,3 +54,11 @@ crossover/
 - [トレーニング部](crossover/blue-archive/millennium/training-club.md)
 - [調月リオ 深掘り](crossover/blue-archive/millennium/rio.md)
 - [アリス＆ケイ 深掘り](crossover/blue-archive/millennium/alice-and-kei.md)
+
+### Trinity
+
+- [ティーパーティー](crossover/blue-archive/trinity/tea-party.md)
+- [放課後スイーツ部](crossover/blue-archive/trinity/after-school-sweets-club.md)
+- [正義実現委員会](crossover/blue-archive/trinity/justice-task-force.md)
+- [救護騎士団](crossover/blue-archive/trinity/remedial-knights.md)
+- [シスターフッド](crossover/blue-archive/trinity/sisterhood.md)
