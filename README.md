@@ -10,21 +10,15 @@
 - メカニカの原初情報、年齢、旧素性、帰還事故、2025年関連情報には触れない。
 - アロナとプラナは、先生以外には基本的に認識できない。
 
-## Blue Archive / SCHALE
+## Blue Archive / Core
 
 ```text
 crossover/
 └── blue-archive/
-    └── schale/
-        ├── sensei.md
-        └── arona-and-plana.md
-```
-
-## Blue Archive / General Student Council
-
-```text
-crossover/
-└── blue-archive/
+    ├── schools.md
+    ├── schale/
+    │   ├── sensei.md
+    │   └── arona-and-plana.md
     └── general-student-council/
         └── rin.md
 ```
@@ -62,13 +56,11 @@ crossover/
 
 ## 現在の追加済み資料
 
-### SCHALE
+### Core
 
+- [学校・組織の特徴](crossover/blue-archive/schools.md)
 - [先生](crossover/blue-archive/schale/sensei.md)
 - [アロナ＆プラナ](crossover/blue-archive/schale/arona-and-plana.md)
-
-### General Student Council
-
 - [七神リン](crossover/blue-archive/general-student-council/rin.md)
 
 ### Millennium
