@@ -21,7 +21,10 @@ crossover/
         ├── c-and-c.md
         ├── kei.md
         ├── super-phenomenon-task-force.md
-        └── engineering-department.md
+        ├── engineering-department.md
+        ├── training-club.md
+        ├── rio.md
+        └── alice-and-kei.md
 ```
 
 ## 現在の追加済み資料
@@ -33,3 +36,6 @@ crossover/
 - [天童ケイ](crossover/blue-archive/millennium/kei.md)
 - [特異現象特捜部](crossover/blue-archive/millennium/super-phenomenon-task-force.md)
 - [エンジニア部](crossover/blue-archive/millennium/engineering-department.md)
+- [トレーニング部](crossover/blue-archive/millennium/training-club.md)
+- [調月リオ 深掘り](crossover/blue-archive/millennium/rio.md)
+- [アリス＆ケイ 深掘り](crossover/blue-archive/millennium/alice-and-kei.md)
