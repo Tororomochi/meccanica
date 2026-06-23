@@ -65,7 +65,18 @@ crossover/
         ├── pandemonium-society.md
         ├── problem-solver-68.md
         ├── hot-spring-development.md
-        └── food-and-gourmet.md
+        ├── food-and-gourmet.md
+        └── emergency-medicine-club.md
+```
+
+## Blue Archive / Abydos
+
+```text
+crossover/
+└── blue-archive/
+    └── abydos/
+        ├── overview.md
+        └── foreclosure-task-force.md
 ```
 
 ## 現在の追加済み資料
@@ -106,3 +117,9 @@ crossover/
 - [便利屋68](crossover/blue-archive/gehenna/problem-solver-68.md)
 - [温泉開発部](crossover/blue-archive/gehenna/hot-spring-development.md)
 - [給食部・美食研究会](crossover/blue-archive/gehenna/food-and-gourmet.md)
+- [救急医学部](crossover/blue-archive/gehenna/emergency-medicine-club.md)
+
+### Abydos
+
+- [概要](crossover/blue-archive/abydos/overview.md)
+- [対策委員会](crossover/blue-archive/abydos/foreclosure-task-force.md)
