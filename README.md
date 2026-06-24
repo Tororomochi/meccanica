@@ -23,6 +23,15 @@ crossover/
         └── rin.md
 ```
 
+## Blue Archive / Story
+
+```text
+crossover/
+└── blue-archive/
+    └── story/
+        └── 01-millennium-d-sis-arc.md
+```
+
 ## Blue Archive / Millennium
 
 ```text
@@ -80,6 +89,10 @@ crossover/
 ```
 
 ## 現在の追加済み資料
+
+### Story
+
+- [ミレニアム D-SIS・食堂改善編 あらすじ](crossover/blue-archive/story/01-millennium-d-sis-arc.md)
 
 ### Core
 
