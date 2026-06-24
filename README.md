@@ -73,7 +73,8 @@ crossover/
         ├── after-school-sweets-club.md
         ├── justice-task-force.md
         ├── remedial-knights.md
-        └── sisterhood.md
+        ├── sisterhood.md
+        └── arius.md
 ```
 
 ## Blue Archive / Hyakkiyako
@@ -159,6 +160,7 @@ crossover/
 - [正義実現委員会](crossover/blue-archive/trinity/justice-task-force.md)
 - [救護騎士団](crossover/blue-archive/trinity/remedial-knights.md)
 - [シスターフッド](crossover/blue-archive/trinity/sisterhood.md)
+- [アリウス分校](crossover/blue-archive/trinity/arius.md)
 
 ### Hyakkiyako
 
