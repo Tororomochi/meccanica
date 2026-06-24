@@ -105,6 +105,15 @@ crossover/
         └── police-school.md
 ```
 
+## Blue Archive / Seven Prisoners
+
+```text
+crossover/
+└── blue-archive/
+    └── seven-prisoners/
+        └── overview.md
+```
+
 ## Blue Archive / Hyakkiyako
 
 ```text
@@ -202,6 +211,10 @@ crossover/
 ### Valkyrie
 
 - [ヴァルキューレ警察学校](crossover/blue-archive/valkyrie/police-school.md)
+
+### Seven Prisoners
+
+- [七囚人](crossover/blue-archive/seven-prisoners/overview.md)
 
 ### Hyakkiyako
 
