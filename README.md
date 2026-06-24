@@ -165,6 +165,8 @@ crossover/
 - [陰陽部](crossover/blue-archive/hyakkiyako/yin-yang-club.md)
 - [百花繚乱](crossover/blue-archive/hyakkiyako/hyakkaryouran.md)
 - [お祭り運営委員会](crossover/blue-archive/hyakkiyako/festival-operations-department.md)
+- [修行部](crossover/blue-archive/hyakkiyako/training-club.md)
+- [忍術研究部](crossover/blue-archive/hyakkiyako/ninjutsu-research-club.md)
 
 ### Gehenna
 
