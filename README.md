@@ -18,7 +18,8 @@ crossover/
 └── speech-style/
     ├── griffin.md
     ├── paradeus.md
-    └── sangvis-ferri.md
+    ├── sangvis-ferri.md
+    └── millennium-club-reactions.md
 ```
 
 ## Blue Archive / Core
@@ -52,7 +53,6 @@ crossover/
     └── millennium/
         ├── seminar.md
         ├── game-development-club.md
-        ├── club-reactions.md
         ├── veritas.md
         ├── c-and-c.md
         ├── kei.md
@@ -108,6 +108,7 @@ crossover/
 - [グリフィン口調ガイド](crossover/speech-style/griffin.md)
 - [パラデウス口調ガイド](crossover/speech-style/paradeus.md)
 - [鉄血口調ガイド](crossover/speech-style/sangvis-ferri.md)
+- [ミレニアム部活リアクション](crossover/speech-style/millennium-club-reactions.md)
 
 ### Story
 
@@ -125,7 +126,6 @@ crossover/
 
 - [セミナー](crossover/blue-archive/millennium/seminar.md)
 - [ゲーム開発部](crossover/blue-archive/millennium/game-development-club.md)
-- [ミレニアム部活リアクション](crossover/blue-archive/millennium/club-reactions.md)
 - [ヴェリタス](crossover/blue-archive/millennium/veritas.md)
 - [C&C](crossover/blue-archive/millennium/c-and-c.md)
 - [天童ケイ](crossover/blue-archive/millennium/kei.md)
