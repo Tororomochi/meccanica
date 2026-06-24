@@ -11,6 +11,14 @@
 - アロナとプラナは、先生以外には基本的に認識できない。
 - キヴォトスの学生は全員女子高校生として扱う。男子生徒は出さない。
 
+## Speech Style
+
+```text
+crossover/
+└── speech-style/
+    └── griffin.md
+```
+
 ## Blue Archive / Core
 
 ```text
@@ -91,6 +99,10 @@ crossover/
 ```
 
 ## 現在の追加済み資料
+
+### Speech Style
+
+- [グリフィン口調ガイド](crossover/speech-style/griffin.md)
 
 ### Story
 
