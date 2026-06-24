@@ -163,6 +163,7 @@ crossover/
 
 - [概要](crossover/blue-archive/hyakkiyako/overview.md)
 - [陰陽部](crossover/blue-archive/hyakkiyako/yin-yang-club.md)
+- [百花繚乱](crossover/blue-archive/hyakkiyako/hyakkaryouran.md)
 
 ### Gehenna
 
