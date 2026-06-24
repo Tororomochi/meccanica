@@ -78,6 +78,15 @@ crossover/
         └── arius.md
 ```
 
+## Blue Archive / SRT
+
+```text
+crossover/
+└── blue-archive/
+    └── srt/
+        └── rabbit-squad.md
+```
+
 ## Blue Archive / Hyakkiyako
 
 ```text
@@ -163,6 +172,10 @@ crossover/
 - [救護騎士団](crossover/blue-archive/trinity/remedial-knights.md)
 - [シスターフッド](crossover/blue-archive/trinity/sisterhood.md)
 - [アリウス分校](crossover/blue-archive/trinity/arius.md)
+
+### SRT
+
+- [RABBIT小隊](crossover/blue-archive/srt/rabbit-squad.md)
 
 ### Hyakkiyako
 
