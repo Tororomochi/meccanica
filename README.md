@@ -29,6 +29,7 @@ crossover/
 crossover/
 └── blue-archive/
     └── story/
+        ├── timeline.md
         └── 01-millennium-d-sis-arc.md
 ```
 
@@ -92,6 +93,7 @@ crossover/
 
 ### Story
 
+- [Blue Archive クロスオーバー タイムライン](crossover/blue-archive/story/timeline.md)
 - [ミレニアム D-SIS・食堂改善編 あらすじ](crossover/blue-archive/story/01-millennium-d-sis-arc.md)
 
 ### Core
