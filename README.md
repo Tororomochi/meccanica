@@ -114,6 +114,15 @@ crossover/
         └── overview.md
 ```
 
+## Blue Archive / Shanhaijing
+
+```text
+crossover/
+└── blue-archive/
+    └── shanhaijing/
+        └── overview.md
+```
+
 ## Blue Archive / Hyakkiyako
 
 ```text
@@ -215,6 +224,10 @@ crossover/
 ### Seven Prisoners
 
 - [七囚人](crossover/blue-archive/seven-prisoners/overview.md)
+
+### Shanhaijing
+
+- [Shanhaijing](crossover/blue-archive/shanhaijing/overview.md)
 
 ### Hyakkiyako
 
