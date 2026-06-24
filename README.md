@@ -28,10 +28,9 @@ crossover/
 crossover/
 └── blue-archive/
     ├── schools.md
-    ├── schale/
-    │   ├── sensei.md
-    │   └── arona-and-plana.md
-    └── general-student-council/
+    └── schale/
+        ├── sensei.md
+        ├── arona-and-plana.md
         └── rin.md
 ```
 
@@ -120,7 +119,7 @@ crossover/
 - [学校・組織の特徴](crossover/blue-archive/schools.md)
 - [先生](crossover/blue-archive/schale/sensei.md)
 - [アロナ＆プラナ](crossover/blue-archive/schale/arona-and-plana.md)
-- [七神リン](crossover/blue-archive/general-student-council/rin.md)
+- [七神リン](crossover/blue-archive/schale/rin.md)
 
 ### Millennium
 
