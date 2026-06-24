@@ -18,8 +18,7 @@ crossover/
 └── speech-style/
     ├── griffin.md
     ├── paradeus.md
-    ├── sangvis-ferri.md
-    └── millennium-club-speech-style.md
+    └── sangvis-ferri.md
 ```
 
 ## Blue Archive / Core
@@ -180,7 +179,6 @@ crossover/
 - [グリフィン口調ガイド](crossover/speech-style/griffin.md)
 - [パラデウス口調ガイド](crossover/speech-style/paradeus.md)
 - [鉄血口調ガイド](crossover/speech-style/sangvis-ferri.md)
-- [ミレニアム部活口調ガイド](crossover/speech-style/millennium-club-speech-style.md)
 
 ### Story
 
