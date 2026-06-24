@@ -16,7 +16,8 @@
 ```text
 crossover/
 └── speech-style/
-    └── griffin.md
+    ├── griffin.md
+    └── paradeus.md
 ```
 
 ## Blue Archive / Core
@@ -103,6 +104,7 @@ crossover/
 ### Speech Style
 
 - [グリフィン口調ガイド](crossover/speech-style/griffin.md)
+- [パラデウス口調ガイド](crossover/speech-style/paradeus.md)
 
 ### Story
 
