@@ -87,6 +87,15 @@ crossover/
         └── rabbit-squad.md
 ```
 
+## Blue Archive / Highlander
+
+```text
+crossover/
+└── blue-archive/
+    └── highlander/
+        └── railroad-academy.md
+```
+
 ## Blue Archive / Hyakkiyako
 
 ```text
@@ -176,6 +185,10 @@ crossover/
 ### SRT
 
 - [RABBIT小隊](crossover/blue-archive/srt/rabbit-squad.md)
+
+### Highlander
+
+- [ハイランダー鉄道学園](crossover/blue-archive/highlander/railroad-academy.md)
 
 ### Hyakkiyako
 
