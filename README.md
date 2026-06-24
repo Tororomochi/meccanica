@@ -87,7 +87,6 @@ crossover/
         ├── festival-operations-department.md
         ├── training-club.md
         ├── ninjutsu-research-club.md
-        ├── rickshaw-club.md
         ├── nature-beauty.md
         └── charm-chaos.md
 ```
@@ -167,6 +166,7 @@ crossover/
 - [お祭り運営委員会](crossover/blue-archive/hyakkiyako/festival-operations-department.md)
 - [修行部](crossover/blue-archive/hyakkiyako/training-club.md)
 - [忍術研究部](crossover/blue-archive/hyakkiyako/ninjutsu-research-club.md)
+- [花鳥風月部](crossover/blue-archive/hyakkiyako/nature-beauty.md)
 
 ### Gehenna
 
