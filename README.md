@@ -96,6 +96,15 @@ crossover/
         └── railroad-academy.md
 ```
 
+## Blue Archive / Valkyrie
+
+```text
+crossover/
+└── blue-archive/
+    └── valkyrie/
+        └── police-school.md
+```
+
 ## Blue Archive / Hyakkiyako
 
 ```text
@@ -189,6 +198,10 @@ crossover/
 ### Highlander
 
 - [ハイランダー鉄道学園](crossover/blue-archive/highlander/railroad-academy.md)
+
+### Valkyrie
+
+- [ヴァルキューレ警察学校](crossover/blue-archive/valkyrie/police-school.md)
 
 ### Hyakkiyako
 
