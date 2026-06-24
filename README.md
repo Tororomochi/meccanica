@@ -75,6 +75,23 @@ crossover/
         └── sisterhood.md
 ```
 
+## Blue Archive / Hyakkiyako
+
+```text
+crossover/
+└── blue-archive/
+    └── hyakkiyako/
+        ├── overview.md
+        ├── yin-yang-club.md
+        ├── hyakkaryouran.md
+        ├── festival-operations-department.md
+        ├── training-club.md
+        ├── ninjutsu-research-club.md
+        ├── rickshaw-club.md
+        ├── nature-beauty.md
+        └── charm-chaos.md
+```
+
 ## Blue Archive / Gehenna
 
 ```text
@@ -141,6 +158,10 @@ crossover/
 - [正義実現委員会](crossover/blue-archive/trinity/justice-task-force.md)
 - [救護騎士団](crossover/blue-archive/trinity/remedial-knights.md)
 - [シスターフッド](crossover/blue-archive/trinity/sisterhood.md)
+
+### Hyakkiyako
+
+- [概要](crossover/blue-archive/hyakkiyako/overview.md)
 
 ### Gehenna
 
