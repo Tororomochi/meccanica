@@ -123,6 +123,15 @@ crossover/
         └── overview.md
 ```
 
+## Blue Archive / Red Winter
+
+```text
+crossover/
+└── blue-archive/
+    └── red-winter/
+        └── overview.md
+```
+
 ## Blue Archive / Hyakkiyako
 
 ```text
@@ -228,6 +237,10 @@ crossover/
 ### Shanhaijing
 
 - [Shanhaijing](crossover/blue-archive/shanhaijing/overview.md)
+
+### Red Winter
+
+- [Red Winter](crossover/blue-archive/red-winter/overview.md)
 
 ### Hyakkiyako
 
