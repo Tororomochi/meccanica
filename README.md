@@ -69,6 +69,7 @@ crossover/
 └── blue-archive/
     └── trinity/
         ├── overview.md
+        ├── politics-and-factions.md
         ├── tea-party.md
         ├── after-school-sweets-club.md
         ├── justice-task-force.md
@@ -155,6 +156,7 @@ crossover/
 ### Trinity
 
 - [概要](crossover/blue-archive/trinity/overview.md)
+- [政治・派閥・陰湿さ](crossover/blue-archive/trinity/politics-and-factions.md)
 - [ティーパーティー](crossover/blue-archive/trinity/tea-party.md)
 - [放課後スイーツ部](crossover/blue-archive/trinity/after-school-sweets-club.md)
 - [正義実現委員会](crossover/blue-archive/trinity/justice-task-force.md)
