@@ -52,6 +52,7 @@ crossover/
     └── millennium/
         ├── seminar.md
         ├── game-development-club.md
+        ├── club-reactions.md
         ├── veritas.md
         ├── c-and-c.md
         ├── kei.md
@@ -124,6 +125,7 @@ crossover/
 
 - [セミナー](crossover/blue-archive/millennium/seminar.md)
 - [ゲーム開発部](crossover/blue-archive/millennium/game-development-club.md)
+- [ミレニアム部活リアクション](crossover/blue-archive/millennium/club-reactions.md)
 - [ヴェリタス](crossover/blue-archive/millennium/veritas.md)
 - [C&C](crossover/blue-archive/millennium/c-and-c.md)
 - [天童ケイ](crossover/blue-archive/millennium/kei.md)
