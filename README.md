@@ -35,12 +35,17 @@ crossover/
 
 ## Blue Archive / Story
 
+開始前に必ず `crossover/blue-archive/story/timestamp.md` を参照すること。
+`timestamp.md` では数字が大きいほど新しいストーリーとして扱い、続きを書く場合や直近の流れを確認する場合は、最新番号のファイルと、その1つ前の番号のファイルを読むこと。
+
 ```text
 crossover/
 └── blue-archive/
     └── story/
         ├── timeline.md
-        └── 01-millennium-d-sis-arc.md
+        ├── timestamp.md
+        ├── 01-millennium-d-sis-arc.md
+        └── 02-kaiser-illegal-liquor-investigation.md
 ```
 
 ## Blue Archive / Millennium
@@ -183,7 +188,9 @@ crossover/
 ### Story
 
 - [Blue Archive クロスオーバー タイムライン](crossover/blue-archive/story/timeline.md)
+- [Story Timestamp Index](crossover/blue-archive/story/timestamp.md)
 - [ミレニアム D-SIS・食堂改善編 あらすじ](crossover/blue-archive/story/01-millennium-d-sis-arc.md)
+- [辺境校区酒類不正流通摘発編 あらすじ](crossover/blue-archive/story/02-kaiser-illegal-liquor-investigation.md)
 
 ### Core
 
