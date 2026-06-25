@@ -195,7 +195,7 @@ SP04.txtを参照
  - products/la-camera-del-profumo.md
    - 内容：La camera del profumoの商品ラインナップ、吸入器、ベイプ、ネブライザー、ディフューザー
  - products/vice-commander-menu.md
-   - 内容：副司令メニュー、ブリトー、生春巻き、大葉ジェノベーゼ、黒ニンニクのアラビアータ
+   - 内容：Vice Series / ミレニアム食堂追加メニュー詳細案。副司令補給思想に基づく食堂メニュー群、Vice Burrito、Vice Roll、Vice Pasta、Vice Arrabbiata、Yuzu Gentle Soup、Eimi Cold Soup、Alice Hero Wrap、Vice Bowl、アラビアータドッグ、セット案、食堂試験導入時の評価項目、公開用短文説明
 
 - 運用
  - GitHub側Markdownは整理済み・公開用に整形された資料として扱う
