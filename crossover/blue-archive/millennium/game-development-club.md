@@ -221,4 +221,4 @@
 ## 関連
 - `seminar.md`
 - `veritas.md`
-- `kei.md`
+- `super-phenomenon-task-force.md`
