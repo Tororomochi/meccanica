@@ -175,7 +175,6 @@
 ## 関連
 
 - `overview.md`
-- `food-and-gourmet.md`
 - `gourmet-research-society.md`
 - `problem-solver-68.md`
 - `prefect-team.md`
