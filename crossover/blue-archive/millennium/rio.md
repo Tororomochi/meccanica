@@ -78,4 +78,3 @@
 - `seminar.md`
 - `veritas.md`
 - `super-phenomenon-task-force.md`
-- `kei.md`
