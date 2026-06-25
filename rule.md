@@ -193,7 +193,9 @@ SP04.txtを参照
  - products/sangvis-food.md
    - 内容：鉄血食品部門、il ponte del ricordo、鉄血チョコ、アイスの木、料亭デストロ亭ブランド食品
  - products/la-camera-del-profumo.md
-   - 内容：La camera del profumoの商品ラインナップ、吸入器、ベイプ、ネブライザー、ディフューザー、副司令メニュー
+   - 内容：La camera del profumoの商品ラインナップ、吸入器、ベイプ、ネブライザー、ディフューザー
+ - products/vice-commander-menu.md
+   - 内容：副司令メニュー、ブリトー、生春巻き、大葉ジェノベーゼ、黒ニンニクのアラビアータ
 
 - 運用
  - GitHub側Markdownは整理済み・公開用に整形された資料として扱う
