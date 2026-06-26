@@ -145,7 +145,6 @@ crossover/
         ├── overview.md
         ├── yin-yang-club.md
         ├── hyakkaryouran.md
-        ├── festival-operations-department.md
         ├── training-club.md
         ├── ninjutsu-research-club.md
         ├── nature-beauty.md
