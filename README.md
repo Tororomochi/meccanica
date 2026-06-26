@@ -17,7 +17,17 @@
 .
 ├── README.md
 ├── RULES.md
-└── rule.md
+├── rule.md
+├── products/
+├── systems/
+└── crossover/
+```
+
+## Systems
+
+```text
+systems/
+└── zener-protocol.md
 ```
 
 ## Products
@@ -203,6 +213,10 @@ crossover/
 
 ## 現在の追加済み資料
 
+### Systems
+
+- [ツェナープロトコル](systems/zener-protocol.md)
+
 ### Products
 
 - [La camera del profumo](products/la-camera-del-profumo.md)
@@ -225,7 +239,6 @@ crossover/
 ### Core
 
 - [学校・組織の特徴](crossover/blue-archive/schools.md)
-- [ケイ運用ガイド](crossover/blue-archive/kei-character-guidelines.md)
 - [先生](crossover/blue-archive/schale/sensei.md)
 - [アロナ＆プラナ](crossover/blue-archive/schale/arona-and-plana.md)
 - [七神リン](crossover/blue-archive/schale/rin.md)
