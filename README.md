@@ -44,7 +44,6 @@ crossover/
 ```text
 crossover/
 └── blue-archive/
-    ├── kei-character-guidelines.md
     ├── schools.md
     └── schale/
         ├── arona-and-plana.md
