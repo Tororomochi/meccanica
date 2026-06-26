@@ -1,0 +1,80 @@
+name: Normalize Blue Archive Anna naming
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/normalize-blue-archive-anna.yml
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Normalize Anna naming
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          root = Path("crossover/blue-archive")
+          changed = []
+
+          for path in sorted(root.rglob("*.md")):
+              original = path.read_text(encoding="utf-8")
+              updated = original.replace("メカニカ", "アンナ")
+
+              # Noa calls Anna "アンナちゃん". Keep other honorifics elsewhere as-is.
+              if path.as_posix() == "crossover/blue-archive/millennium/seminar.md":
+                  start = updated.find("## 生塩ノア")
+                  end = updated.find("\n---", start + 1) if start != -1 else -1
+                  if start != -1:
+                      if end == -1:
+                          end = len(updated)
+                      noa_block = updated[start:end].replace("アンナさん", "アンナちゃん")
+                      updated = updated[:start] + noa_block + updated[end:]
+
+              lines = []
+              for line in updated.splitlines(keepends=True):
+                  stripped = line.lstrip()
+                  if (
+                      stripped.startswith("ノア：")
+                      or stripped.startswith("ノア:")
+                      or stripped.startswith("- ノア：")
+                      or stripped.startswith("- ノア:")
+                  ):
+                      line = line.replace("アンナさん", "アンナちゃん")
+                  lines.append(line)
+              updated = "".join(lines)
+
+              if updated != original:
+                  path.write_text(updated, encoding="utf-8", newline="\n")
+                  changed.append(path.as_posix())
+
+          workflow = Path(".github/workflows/normalize-blue-archive-anna.yml")
+          if workflow.exists():
+              workflow.unlink()
+              changed.append(workflow.as_posix())
+
+          print("Changed files:")
+          for item in changed:
+              print(item)
+          PY
+
+      - name: Commit normalized files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add crossover/blue-archive .github/workflows/normalize-blue-archive-anna.yml
+            git commit -m "docs: normalize Blue Archive Anna naming"
+            git push
+          else
+            echo "No changes to commit."
+          fi
