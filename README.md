@@ -11,6 +11,24 @@
 - アロナとプラナは、先生以外には基本的に認識できない。
 - キヴォトスの学生は全員女子高校生として扱う。男子生徒は出さない。
 
+## Repository Root
+
+```text
+.
+├── README.md
+├── RULES.md
+└── rule.md
+```
+
+## Products
+
+```text
+products/
+├── la-camera-del-profumo.md
+├── sangvis-food.md
+└── vice-commander-menu.md
+```
+
 ## Speech Style
 
 ```text
@@ -26,11 +44,12 @@ crossover/
 ```text
 crossover/
 └── blue-archive/
+    ├── kei-character-guidelines.md
     ├── schools.md
     └── schale/
-        ├── sensei.md
         ├── arona-and-plana.md
-        └── rin.md
+        ├── rin.md
+        └── sensei.md
 ```
 
 ## Blue Archive / Story
@@ -54,16 +73,13 @@ crossover/
 crossover/
 └── blue-archive/
     └── millennium/
-        ├── seminar.md
-        ├── game-development-club.md
-        ├── veritas.md
         ├── c-and-c.md
-        ├── kei.md
-        ├── super-phenomenon-task-force.md
         ├── engineering-department.md
+        ├── game-development-club.md
+        ├── seminar.md
+        ├── super-phenomenon-task-force.md
         ├── training-club.md
-        ├── rio.md
-        └── alice-and-kei.md
+        └── veritas.md
 ```
 
 ## Blue Archive / Trinity
@@ -72,14 +88,14 @@ crossover/
 crossover/
 └── blue-archive/
     └── trinity/
+        ├── after-school-sweets-club.md
+        ├── arius.md
+        ├── justice-task-force.md
         ├── overview.md
         ├── politics-and-factions.md
-        ├── tea-party.md
-        ├── after-school-sweets-club.md
-        ├── justice-task-force.md
         ├── remedial-knights.md
         ├── sisterhood.md
-        └── arius.md
+        └── tea-party.md
 ```
 
 ## Blue Archive / SRT
@@ -124,7 +140,12 @@ crossover/
 crossover/
 └── blue-archive/
     └── shanhaijing/
-        └── overview.md
+        ├── alchemy-research-society.md
+        ├── genbu-trading-company.md
+        ├── genryumon.md
+        ├── overview.md
+        ├── peking-opera-club.md
+        └── plum-blossom-garden.md
 ```
 
 ## Blue Archive / Red Winter
@@ -133,7 +154,12 @@ crossover/
 crossover/
 └── blue-archive/
     └── red-winter/
-        └── overview.md
+        ├── guard.md
+        ├── knowledge-liberation-front.md
+        ├── labor-party.md
+        ├── overview.md
+        ├── secretariat.md
+        └── special-class.md
 ```
 
 ## Blue Archive / Hyakkiyako
@@ -142,13 +168,11 @@ crossover/
 crossover/
 └── blue-archive/
     └── hyakkiyako/
-        ├── overview.md
-        ├── yin-yang-club.md
         ├── hyakkaryouran.md
-        ├── training-club.md
-        ├── ninjutsu-research-club.md
         ├── nature-beauty.md
-        └── charm-chaos.md
+        ├── ninjutsu-research-club.md
+        ├── overview.md
+        └── yin-yang-club.md
 ```
 
 ## Blue Archive / Gehenna
@@ -157,13 +181,15 @@ crossover/
 crossover/
 └── blue-archive/
     └── gehenna/
-        ├── overview.md
-        ├── prefect-team.md
-        ├── pandemonium-society.md
-        ├── problem-solver-68.md
+        ├── emergency-medicine-club.md
+        ├── gourmet-research-society.md
         ├── hot-spring-development.md
-        ├── food-and-gourmet.md
-        └── emergency-medicine-club.md
+        ├── overview.md
+        ├── pandemonium-society.md
+        ├── prefect-team.md
+        ├── problem-solver-68.md
+        ├── school-lunch-club.md
+        └── sparkle-club.md
 ```
 
 ## Blue Archive / Abydos
@@ -172,11 +198,17 @@ crossover/
 crossover/
 └── blue-archive/
     └── abydos/
-        ├── overview.md
-        └── foreclosure-task-force.md
+        ├── foreclosure-task-force.md
+        └── overview.md
 ```
 
 ## 現在の追加済み資料
+
+### Products
+
+- [La camera del profumo](products/la-camera-del-profumo.md)
+- [鉄血食品部門・関連食品](products/sangvis-food.md)
+- [Vice Series / 副司令補給メニュー](products/vice-commander-menu.md)
 
 ### Speech Style
 
@@ -194,6 +226,7 @@ crossover/
 ### Core
 
 - [学校・組織の特徴](crossover/blue-archive/schools.md)
+- [ケイ運用ガイド](crossover/blue-archive/kei-character-guidelines.md)
 - [先生](crossover/blue-archive/schale/sensei.md)
 - [アロナ＆プラナ](crossover/blue-archive/schale/arona-and-plana.md)
 - [七神リン](crossover/blue-archive/schale/rin.md)
@@ -204,12 +237,9 @@ crossover/
 - [ゲーム開発部](crossover/blue-archive/millennium/game-development-club.md)
 - [ヴェリタス](crossover/blue-archive/millennium/veritas.md)
 - [C&C](crossover/blue-archive/millennium/c-and-c.md)
-- [天童ケイ](crossover/blue-archive/millennium/kei.md)
 - [特異現象特捜部](crossover/blue-archive/millennium/super-phenomenon-task-force.md)
 - [エンジニア部](crossover/blue-archive/millennium/engineering-department.md)
 - [トレーニング部](crossover/blue-archive/millennium/training-club.md)
-- [調月リオ 深掘り](crossover/blue-archive/millennium/rio.md)
-- [アリス＆ケイ 深掘り](crossover/blue-archive/millennium/alice-and-kei.md)
 
 ### Trinity
 
@@ -241,18 +271,26 @@ crossover/
 ### Shanhaijing
 
 - [Shanhaijing](crossover/blue-archive/shanhaijing/overview.md)
+- [玄武商会](crossover/blue-archive/shanhaijing/genbu-trading-company.md)
+- [錬丹術研究会](crossover/blue-archive/shanhaijing/alchemy-research-society.md)
+- [梅花園](crossover/blue-archive/shanhaijing/plum-blossom-garden.md)
+- [京劇部](crossover/blue-archive/shanhaijing/peking-opera-club.md)
+- [玄龍門](crossover/blue-archive/shanhaijing/genryumon.md)
 
 ### Red Winter
 
 - [Red Winter](crossover/blue-archive/red-winter/overview.md)
+- [特別クラス](crossover/blue-archive/red-winter/special-class.md)
+- [警備部](crossover/blue-archive/red-winter/guard.md)
+- [工務部](crossover/blue-archive/red-winter/labor-party.md)
+- [知識解放戦線](crossover/blue-archive/red-winter/knowledge-liberation-front.md)
+- [事務局](crossover/blue-archive/red-winter/secretariat.md)
 
 ### Hyakkiyako
 
 - [概要](crossover/blue-archive/hyakkiyako/overview.md)
 - [陰陽部](crossover/blue-archive/hyakkiyako/yin-yang-club.md)
 - [百花繚乱](crossover/blue-archive/hyakkiyako/hyakkaryouran.md)
-- [お祭り運営委員会](crossover/blue-archive/hyakkiyako/festival-operations-department.md)
-- [修行部](crossover/blue-archive/hyakkiyako/training-club.md)
 - [忍術研究部](crossover/blue-archive/hyakkiyako/ninjutsu-research-club.md)
 - [花鳥風月部](crossover/blue-archive/hyakkiyako/nature-beauty.md)
 
@@ -263,8 +301,10 @@ crossover/
 - [万魔殿](crossover/blue-archive/gehenna/pandemonium-society.md)
 - [便利屋68](crossover/blue-archive/gehenna/problem-solver-68.md)
 - [温泉開発部](crossover/blue-archive/gehenna/hot-spring-development.md)
-- [給食部・美食研究会](crossover/blue-archive/gehenna/food-and-gourmet.md)
 - [救急医学部](crossover/blue-archive/gehenna/emergency-medicine-club.md)
+- [キララ同好会](crossover/blue-archive/gehenna/sparkle-club.md)
+- [給食部](crossover/blue-archive/gehenna/school-lunch-club.md)
+- [美食研究会](crossover/blue-archive/gehenna/gourmet-research-society.md)
 
 ### Abydos
 
