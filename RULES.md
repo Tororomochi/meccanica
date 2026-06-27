@@ -18,6 +18,13 @@ https://github.com/Tororomochi/meccanica
 - 公式設定は要約に留め、丸写ししない。
 - メカニカとの関係、運用、認知レベルを中心に記録する。
 
+## キャラクター検索
+
+- Blue Archive系キャラクターを探す場合は、まず `character-index.md` を参照する。
+- `character-index.md` は、キャラクター名から該当Markdownファイルへ辿るための索引として扱う。
+- キャラクター個別設定の詳細は、`character-index.md` に記載されたリンク先の各Markdownを参照する。
+- 新しいキャラクター資料を追加した場合は、必要に応じて `character-index.md` にも追記する。
+
 ## 重要ルール
 
 - アロナとプラナは先生以外には基本的に認識できない。
@@ -28,6 +35,7 @@ https://github.com/Tororomochi/meccanica
 ## 主な参照先
 
 ```text
+character-index.md
 crossover/blue-archive/schools.md
 crossover/blue-archive/schale/
 crossover/blue-archive/general-student-council/
