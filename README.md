@@ -17,6 +17,7 @@
 .
 ├── README.md
 ├── RULES.md
+├── character-index.md
 ├── rule.md
 ├── products/
 ├── systems/
@@ -73,7 +74,8 @@ crossover/
         ├── timeline.md
         ├── timestamp.md
         ├── 01-millennium-d-sis-arc.md
-        └── 02-kaiser-illegal-liquor-investigation.md
+        ├── 02-kaiser-illegal-liquor-investigation.md
+        └── 03-gohasute-independent-game-arc.md
 ```
 
 ## Blue Archive / Millennium
@@ -235,6 +237,7 @@ crossover/
 - [Story Timestamp Index](crossover/blue-archive/story/timestamp.md)
 - [ミレニアム D-SIS・食堂改善編 あらすじ](crossover/blue-archive/story/01-millennium-d-sis-arc.md)
 - [辺境校区酒類不正流通摘発編 あらすじ](crossover/blue-archive/story/02-kaiser-illegal-liquor-investigation.md)
+- [ごはステ独立版開発編 あらすじ](crossover/blue-archive/story/03-gohasute-independent-game-arc.md)
 
 ### Core
 
