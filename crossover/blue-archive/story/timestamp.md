@@ -3,6 +3,12 @@
 > 数字が大きいほど新しいストーリー。
 > 章ファイルを分割した場合は、この一覧を更新する。
 
+## 03: ごはステ独立版開発編
+
+- ファイル: `03-gohasute-independent-game-arc.md`
+- 主題: RABBIT小隊取材、Minecraftプロトタイプ、ごはステOBT、プレイヤー文化発生、アリウス監修、独立ゲーム化
+- 状態: Minecraftプロトタイプから独立ゲーム化へ移行、メカニカはグリフィンへ帰還済み
+
 ## 02: 辺境校区酒類不正流通摘発編
 
 - ファイル: `02-kaiser-illegal-liquor-investigation.md`
