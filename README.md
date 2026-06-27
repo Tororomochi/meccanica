@@ -16,6 +16,7 @@
 ```text
 .
 ├── README.md
+├── START.md
 ├── RULES.md
 ├── character-index.md
 ├── rule.md
@@ -214,6 +215,12 @@ crossover/
 ```
 
 ## 現在の追加済み資料
+
+### Root
+
+- [START](START.md)
+- [運用ルール](RULES.md)
+- [キャラクター索引](character-index.md)
 
 ### Systems
 
