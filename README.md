@@ -78,7 +78,8 @@ crossover/
         ├── 02-kaiser-illegal-liquor-investigation.md
         ├── 03-gohasute-independent-game-arc.md
         ├── 04-gohasute-mmo-launch-arc.md
-        └── 05-red-winter-dairy-and-himari-exoskeleton-arc.md
+        ├── 05-red-winter-dairy-and-himari-exoskeleton-arc.md
+        └── 06-shanhaijing-gohasute-update-arc.md
 ```
 
 ## Blue Archive / Millennium
@@ -177,45 +178,3 @@ crossover/
 ```
 
 ## Blue Archive / Hyakkiyako
-
-```text
-crossover/
-└── blue-archive/
-    └── hyakkiyako/
-        ├── hyakkaryouran.md
-        ├── nature-beauty.md
-        ├── ninjutsu-research-club.md
-        ├── overview.md
-        └── yin-yang-club.md
-```
-
-## Blue Archive / Gehenna
-
-```text
-crossover/
-└── blue-archive/
-    └── gehenna/
-        ├── emergency-medicine-club.md
-        ├── gourmet-research-society.md
-        ├── hot-spring-development.md
-        ├── overview.md
-        ├── pandemonium-society.md
-        ├── prefect-team.md
-        ├── problem-solver-68.md
-        ├── school-lunch-club.md
-        └── sparkle-club.md
-```
-
-## Blue Archive / Abydos
-
-```text
-crossover/
-└── blue-archive/
-    └── abydos/
-        ├── foreclosure-task-force.md
-        └── overview.md
-```
-
-## 現在の追加済み資料
-
-### Root
