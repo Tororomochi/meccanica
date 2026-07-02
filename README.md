@@ -107,6 +107,7 @@ crossover/
         ├── after-school-sweets-club.md
         ├── arius.md
         ├── justice-task-force.md
+        ├── make-up-work-club.md
         ├── overview.md
         ├── politics-and-factions.md
         ├── remedial-knights.md
