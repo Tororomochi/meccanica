@@ -79,7 +79,8 @@ crossover/
         ├── 03-gohasute-independent-game-arc.md
         ├── 04-gohasute-mmo-launch-arc.md
         ├── 05-red-winter-dairy-and-himari-exoskeleton-arc.md
-        └── 06-shanhaijing-gohasute-update-arc.md
+        ├── 06-shanhaijing-gohasute-update-arc.md
+        └── 07-shanhaijing-production-trinity-motion-capture-arc.md
 ```
 
 ## Blue Archive / Millennium
