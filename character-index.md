@@ -104,6 +104,13 @@
 - 柚鳥ナツ
 - 杏山カズサ
 
+### [crossover/blue-archive/trinity/make-up-work-club.md](crossover/blue-archive/trinity/make-up-work-club.md)
+
+- 阿慈谷ヒフミ
+- 白洲アズサ
+- 下江コハル
+- 浦和ハナコ
+
 ### [crossover/blue-archive/trinity/remedial-knights.md](crossover/blue-archive/trinity/remedial-knights.md)
 
 - 蒼森ミネ
