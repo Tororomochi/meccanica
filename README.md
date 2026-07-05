@@ -83,7 +83,8 @@ crossover/
         ├── 05-red-winter-dairy-and-himari-exoskeleton-arc.md
         ├── 06-shanhaijing-gohasute-update-arc.md
         ├── 07-shanhaijing-production-trinity-motion-capture-arc.md
-        └── 08-shanhaijing-dlc-release-and-pome-arc.md
+        ├── 08-shanhaijing-dlc-release-and-pome-arc.md
+        └── 09-trinity-christmas-hot-wine-arc.md
 ```
 
 ## Blue Archive / Millennium
