@@ -86,7 +86,8 @@ crossover/
         ├── 08-shanhaijing-dlc-release-and-pome-arc.md
         ├── 09-trinity-christmas-hot-wine-arc.md
         ├── 10-trinity-christmas-cross-school-arc.md
-        └── 11-trinity-christmas-snow-nog-arc.md
+        ├── 11-trinity-christmas-snow-nog-arc.md
+        └── 12-trinity-christmas-finale-and-winter-break.md
 ```
 
 ## Blue Archive / Millennium
