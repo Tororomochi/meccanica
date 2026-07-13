@@ -88,7 +88,8 @@ crossover/
         ├── 10-trinity-christmas-cross-school-arc.md
         ├── 11-trinity-christmas-snow-nog-arc.md
         ├── 12-trinity-christmas-finale-and-winter-break.md
-        └── 13-gohasute-transport-dlc-and-three-school-expansion-arc.md
+        ├── 13-gohasute-transport-dlc-and-three-school-expansion-arc.md
+        └── 14-gohasute-drinnuy-infiltration-and-logistics-reconciliation-arc.md
 ```
 
 ## Blue Archive / Millennium
