@@ -90,7 +90,8 @@ crossover/
         ├── 12-trinity-christmas-finale-and-winter-break.md
         ├── 13-gohasute-transport-dlc-and-three-school-expansion-arc.md
         ├── 14-gohasute-drinnuy-infiltration-and-logistics-reconciliation-arc.md
-        └── 15-red-winter-fieldwork-and-227-hot-spring-arc.md
+        ├── 15-red-winter-fieldwork-and-227-hot-spring-arc.md
+        └── 16-gohasute-dlc3-production-teaser-and-completion-arc.md
 ```
 
 ## Blue Archive / Millennium
