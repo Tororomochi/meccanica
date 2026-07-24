@@ -93,7 +93,8 @@ crossover/
         ├── 15-red-winter-fieldwork-and-227-hot-spring-arc.md
         ├── 16-gohasute-dlc3-production-teaser-and-completion-arc.md
         ├── 17-gohasute-dlc3-release-postgame-and-developer-aftermath-arc.md
-        └── 18-griffin-decoy-doctrine-and-sangvis-discrimination-incident.md
+        ├── 18-griffin-decoy-doctrine-and-sangvis-discrimination-incident.md
+        └── 19-juri-valentine-living-chocolate-incident.md
 ```
 
 ## Blue Archive / Millennium
