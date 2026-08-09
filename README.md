@@ -94,7 +94,8 @@ crossover/
         ├── 16-gohasute-dlc3-production-teaser-and-completion-arc.md
         ├── 17-gohasute-dlc3-release-postgame-and-developer-aftermath-arc.md
         ├── 18-griffin-decoy-doctrine-and-sangvis-discrimination-incident.md
-        └── 19-juri-valentine-living-chocolate-incident.md
+        ├── 19-juri-valentine-living-chocolate-incident.md
+        └── 20-drum-crab-golden-worm-and-rejuvenation-ointment-arc.md
 ```
 
 ## Blue Archive / Millennium
@@ -178,19 +179,3 @@ crossover/
         ├── peking-opera-club.md
         └── plum-blossom-garden.md
 ```
-
-## Blue Archive / Red Winter
-
-```text
-crossover/
-└── blue-archive/
-    └── red-winter/
-        ├── guard.md
-        ├── knowledge-liberation-front.md
-        ├── labor-party.md
-        ├── overview.md
-        ├── secretariat.md
-        └── special-class.md
-```
-
-## Blue Archive / Hyakkiyako
