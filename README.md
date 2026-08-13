@@ -96,7 +96,8 @@ crossover/
         ├── 18-griffin-decoy-doctrine-and-sangvis-discrimination-incident.md
         ├── 19-juri-valentine-living-chocolate-incident.md
         ├── 20-drum-crab-golden-worm-and-rejuvenation-ointment-arc.md
-        └── 21-harpyia-infiltration-kinsyun-research-and-yuna-arc.md
+        ├── 21-harpyia-infiltration-kinsyun-research-and-yuna-arc.md
+        └── 22-trinity-dessert-404-family-and-zener-comedy-arc.md
 ```
 
 ## Blue Archive / Millennium
