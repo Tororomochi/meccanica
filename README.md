@@ -97,7 +97,8 @@ crossover/
         ├── 19-juri-valentine-living-chocolate-incident.md
         ├── 20-drum-crab-golden-worm-and-rejuvenation-ointment-arc.md
         ├── 21-harpyia-infiltration-kinsyun-research-and-yuna-arc.md
-        └── 22-trinity-dessert-404-family-and-zener-comedy-arc.md
+        ├── 22-trinity-dessert-404-family-and-zener-comedy-arc.md
+        └── 23-rc-aircraft-harpyia-ghost-and-gehenna-logistics-arc.md
 ```
 
 ## Blue Archive / Millennium
