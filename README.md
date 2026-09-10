@@ -100,7 +100,8 @@ crossover/
         ├── 22-trinity-dessert-404-family-and-zener-comedy-arc.md
         ├── 23-rc-aircraft-harpyia-ghost-and-gehenna-logistics-arc.md
         ├── 24-sensei-rescue-splatoon-and-thunder-emperor-aftermath-arc.md
-        └── 25-tu-berlin-sii-four-month-rewrite-and-schneider-sandwich-arc.md
+        ├── 25-tu-berlin-sii-four-month-rewrite-and-schneider-sandwich-arc.md
+        └── 26-mdr-prank-scadente-muro-and-hyakkiyako-network-arc.md
 ```
 
 ## Blue Archive / Millennium
