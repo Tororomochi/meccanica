@@ -103,7 +103,8 @@ crossover/
         ├── 25-tu-berlin-sii-four-month-rewrite-and-schneider-sandwich-arc.md
         ├── 26-mdr-prank-scadente-muro-and-hyakkiyako-network-arc.md
         ├── 27-phaetusa-sweeper-urchin-pudding-and-oblaat-research-arc.md
-        └── 28-millennium-expo-code-box-and-helmet-gang-incident-arc.md
+        ├── 28-millennium-expo-code-box-and-helmet-gang-incident-arc.md
+        └── 29-millennium-expo-tank-arcade-and-seminar-reunion-arc.md
 ```
 
 ## Blue Archive / Millennium
