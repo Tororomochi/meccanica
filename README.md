@@ -104,7 +104,8 @@ crossover/
         ├── 26-mdr-prank-scadente-muro-and-hyakkiyako-network-arc.md
         ├── 27-phaetusa-sweeper-urchin-pudding-and-oblaat-research-arc.md
         ├── 28-millennium-expo-code-box-and-helmet-gang-incident-arc.md
-        └── 29-millennium-expo-tank-arcade-and-seminar-reunion-arc.md
+        ├── 29-millennium-expo-tank-arcade-and-seminar-reunion-arc.md
+        └── 30-millennium-expo-day-four-tank-simulator-and-arius-evening-arc.md
 ```
 
 ## Blue Archive / Millennium
