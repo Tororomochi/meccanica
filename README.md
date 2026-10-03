@@ -105,7 +105,8 @@ crossover/
         ├── 27-phaetusa-sweeper-urchin-pudding-and-oblaat-research-arc.md
         ├── 28-millennium-expo-code-box-and-helmet-gang-incident-arc.md
         ├── 29-millennium-expo-tank-arcade-and-seminar-reunion-arc.md
-        └── 30-millennium-expo-day-four-tank-simulator-and-arius-evening-arc.md
+        ├── 30-millennium-expo-day-four-tank-simulator-and-arius-evening-arc.md
+        └── 31-millennium-expo-final-day-tank-medusa-and-veritas-arc.md
 ```
 
 ## Blue Archive / Millennium
