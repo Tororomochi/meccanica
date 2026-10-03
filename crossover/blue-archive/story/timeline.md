@@ -239,5 +239,5 @@
 - `../trinity/after-school-sweets-club.md`
 - `../srt/rabbit-squad.md`
 - `../hyakkiyako/hyakkaryouran.md`
-- `../../systems/medusa.md`
+- `../../../systems/medusa.md`
 
