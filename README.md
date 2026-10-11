@@ -106,7 +106,8 @@ crossover/
         ├── 28-millennium-expo-code-box-and-helmet-gang-incident-arc.md
         ├── 29-millennium-expo-tank-arcade-and-seminar-reunion-arc.md
         ├── 30-millennium-expo-day-four-tank-simulator-and-arius-evening-arc.md
-        └── 31-millennium-expo-final-day-tank-medusa-and-veritas-arc.md
+        ├── 31-millennium-expo-final-day-tank-medusa-and-veritas-arc.md
+        └── 32-millennium-arcade-redesign-and-griffin-close-combat-exam-arc.md
 ```
 
 ## Blue Archive / Millennium
