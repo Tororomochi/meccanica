@@ -76,6 +76,48 @@ crossover/blue-archive/story/timeline.md
 
 ---
 
+## Azur Laneストーリー作業
+
+Azur Lane側ストーリーを書く、続きを作る、あらすじを追加する、直近の流れを確認する場合は、以下の順で読む。
+
+```text
+crossover/azur-lane/story/timestamp.md
+最新番号の章ファイル
+最新番号の一つ前の章ファイル（存在する場合）
+crossover/azur-lane/story/timeline.md
+```
+
+運用:
+
+- Blue Archive側とは別系統のストーリーとして扱い、章・時系列・同期地点を混在させない。
+- `timestamp.md` では数字が大きいほど新しいAzur Lane側ストーリーとして扱う。
+- 続きを書く場合は最新章を必ず読み、二章以上存在する場合は一つ前の章も読む。
+- 全体の流れや章の位置づけを確認する場合は `timeline.md` も読む。
+- Azur Lane側で副官と副司令官は別職として扱う。副官は秘書・事務補佐、副司令官は正式な指揮系統と代行権を持つ役職とする。
+- 指揮系統や基地運用は、Azur Lane側ではリアル軍制寄りの運用を優先する。
+
+### Azur Lane側同期
+
+ユーザーが以下のように指定した場合は、Azur Lane側だけを同期対象として扱う。
+
+```text
+アズールレーン側を同期
+アズレン側を同期
+Azur Lane側を同期
+```
+
+実施内容:
+
+1. `START.md` と `RULES.md` を読む。
+2. `crossover/azur-lane/story/timestamp.md` を読む。
+3. 最新章を読む。
+4. 二章以上存在する場合は一つ前の章も読む。
+5. 必要に応じて `crossover/azur-lane/story/timeline.md` を読む。
+6. Blue Archive側の章・timestamp・timelineは変更しない。
+7. Azur Lane側だけで続きを作成・同期する。
+
+---
+
 ## あらすじアップ
 
 ユーザーが以下のように言った場合は、あらすじ追加作業として扱う。
@@ -109,6 +151,26 @@ crossover/blue-archive/story/timeline.md
 - 2桁以上の連番 + 英語スラッグで保存する。
 - 日本語名の `あらすじ.md` や無番号ファイル名では保存しない。
 - 既に `あらすじ.md` のような無番号ファイルがある場合は、内容に合う番号付き英語スラッグへ移し、旧ファイルは削除する。
+
+### Azur Lane側あらすじアップ
+
+ユーザーがAzur Lane側を明示してあらすじ追加を依頼した場合は、Blue Archive側ではなく以下を更新する。
+
+```text
+crossover/azur-lane/story/
+```
+
+実施内容:
+
+1. `crossover/azur-lane/story/timestamp.md` を読む。
+2. 最新章を読む。
+3. 二章以上存在する場合は一つ前の章も読む。
+4. 必要に応じて `crossover/azur-lane/story/timeline.md` を読む。
+5. 新しいあらすじを次の連番 + 英語スラッグで保存する。
+6. Azur Lane側の `timestamp.md` を更新する。
+7. 必要に応じてAzur Lane側の `timeline.md` を更新する。
+8. 必要に応じて `README.md` のStory一覧を更新する。
+9. Blue Archive側のstoryファイルは変更しない。
 
 ---
 
@@ -159,6 +221,25 @@ rule.md
 - `timestamp.md` 更新
 - `timeline.md` 更新
 - `README.md` 更新
+
+### アズールレーン側を同期
+
+Azur Lane側だけを同期する。
+
+- `crossover/azur-lane/story/timestamp.md` を読む。
+- 最新章を読む。
+- 必要に応じて一つ前の章と `timeline.md` を読む。
+- Blue Archive側を変更しない。
+
+### Azur Lane側あらすじアップ
+
+新しいAzur Laneストーリー章を番号付きMarkdownとして追加する。
+
+- Azur Lane側の新章ファイル作成
+- Azur Lane側 `timestamp.md` 更新
+- Azur Lane側 `timeline.md` 更新
+- 必要に応じて `README.md` 更新
+- Blue Archive側は変更しない
 
 ### キャラ同期
 
