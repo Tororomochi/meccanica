@@ -111,6 +111,20 @@ crossover/
         └── 33-millennium-arcade-ver2-red-winter-183-and-mass-production-arc.md
 ```
 
+## Azur Lane / Story
+
+開始前に `crossover/azur-lane/story/timestamp.md` を参照する。
+`timestamp.md` では数字が大きいほど新しいストーリーとして扱い、全体の物語順は `timeline.md` で管理する。
+
+```text
+crossover/
+└── azur-lane/
+    └── story/
+        ├── timeline.md
+        ├── timestamp.md
+        └── 01-akashi-return-port-politics-and-chocolate-arc.md
+```
+
 ## Blue Archive / Millennium
 
 ```text
