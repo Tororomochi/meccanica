@@ -95,7 +95,7 @@ crossover/
         ├── 17-gohasute-dlc3-release-postgame-and-developer-aftermath-arc.md
         ├── 18-griffin-decoy-doctrine-and-sangvis-discrimination-incident.md
         ├── 19-juri-valentine-living-chocolate-incident.md
-        ├── 20-drum-crab-golden-worm-and-rejuvenation-ointment-arc.md
+        ├── 20-drum-crab-golden-worm-and-rejuvenation-ointment-research-arc.md
         ├── 21-harpyia-infiltration-kinsyun-research-and-yuna-arc.md
         ├── 22-trinity-dessert-404-family-and-zener-comedy-arc.md
         ├── 23-rc-aircraft-harpyia-ghost-and-gehenna-logistics-arc.md
@@ -122,7 +122,8 @@ crossover/
     └── story/
         ├── timeline.md
         ├── timestamp.md
-        └── 01-akashi-return-port-politics-and-chocolate-arc.md
+        ├── 01-akashi-return-port-politics-and-chocolate-arc.md
+        └── 02-iron-blood-dinergate-ginkgo-shogi-and-wycombe-abbey-arc.md
 ```
 
 ## Blue Archive / Millennium
