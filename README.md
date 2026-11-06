@@ -123,7 +123,8 @@ crossover/
         ├── timeline.md
         ├── timestamp.md
         ├── 01-akashi-return-port-politics-and-chocolate-arc.md
-        └── 02-iron-blood-dinergate-ginkgo-shogi-and-wycombe-abbey-arc.md
+        ├── 02-iron-blood-dinergate-ginkgo-shogi-and-wycombe-abbey-arc.md
+        └── 03-royal-meta-vice-commander-rescue-and-griffin-return-arc.md
 ```
 
 ## Blue Archive / Millennium
