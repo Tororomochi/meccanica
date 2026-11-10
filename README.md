@@ -108,7 +108,8 @@ crossover/
         ├── 30-millennium-expo-day-four-tank-simulator-and-arius-evening-arc.md
         ├── 31-millennium-expo-final-day-tank-medusa-and-veritas-arc.md
         ├── 32-millennium-arcade-redesign-and-griffin-close-combat-exam-arc.md
-        └── 33-millennium-arcade-ver2-red-winter-183-and-mass-production-arc.md
+        ├── 33-millennium-arcade-ver2-red-winter-183-and-mass-production-arc.md
+        └── 34-purple-train-portal-guillotine-valkyrie-griffin-return-arc.md
 ```
 
 ## Azur Lane / Story
