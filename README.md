@@ -110,7 +110,8 @@ crossover/
         ├── 32-millennium-arcade-redesign-and-griffin-close-combat-exam-arc.md
         ├── 33-millennium-arcade-ver2-red-winter-183-and-mass-production-arc.md
         ├── 34-purple-train-portal-guillotine-valkyrie-griffin-return-arc.md
-        └── 35-purple-train-abydos-recon-clean-one-medusa-cola-arc.md
+        ├── 35-purple-train-abydos-recon-clean-one-medusa-cola-arc.md
+        └── 36-ceremonial-guard-rubber-duck-bear-and-purple-anomaly-review-arc.md
 ```
 
 ## Azur Lane / Story
