@@ -238,3 +238,20 @@
 - `../valkyrie/police-school.md`
 - `../../../systems/medusa.md`
 - `../../../systems/zener-protocol.md`
+
+### T46: 儀仗兵の笑ってはいけない訓練・セミナーのアヒル・紫色異常第一次解析区切り編
+
+- モモイの数学特訓中、グリフィン第一司令部で翻訳機を忘れて「Danke」で号令を乗り切ろうとした奉仕活動の失敗を回想。ノアはツェナー通信そのものは読めないが、アンナとケイの振る舞いから通信の発生を見抜く。
+- ノアを笑わせるためベルリンのグリフィン儀仗兵の精神集中訓練映像を披露。「笑ってはいけない」条件で、黄色いゴムのアヒルを反逆者として尋問し鳴き声を悲鳴として演説、コストコの巨大熊を明治期の即身仏代替の文化財として真顔で解説する架空の偽史、熊に抱きつくG11を416が敬礼・回収する芝居が続く。儀仗兵もノアたちも大笑いする。
+- ユウカはアヒルで不合格。セミナーに戻った後、ユウカのポケットから同じようなアヒルが出現するが、誰も混入を目撃していない。コユキは反省文免除を賭けて動画に挑み、早々に笑って不合格となり反省文継続。
+- ヒマリは紫色列車とアビドス残骸の**第一次観測ログ解析が一区切り**したと報告。車体に重なる紫色の変動反応の性質や発生条件は未確定で、怪異の完全解決・無害化ではない。メカニカはログを保全し、無許可で接近せず、メデューサにも許可と安全確認ができるまで近付かないと約束する。
+
+関連資料:
+- `36-ceremonial-guard-rubber-duck-bear-and-purple-anomaly-review-arc.md`
+- `35-purple-train-abydos-recon-clean-one-medusa-cola-arc.md`
+- `34-purple-train-portal-guillotine-valkyrie-griffin-return-arc.md`
+- `../millennium/game-development-club.md`
+- `../millennium/seminar.md`
+- `../millennium/super-phenomenon-task-force.md`
+- `../../../systems/medusa.md`
+- `../../../systems/zener-protocol.md`
